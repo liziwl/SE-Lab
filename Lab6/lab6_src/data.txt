@@ -1,0 +1,43 @@
+Buildfile: /home/arthur/work/se/fault-localization/build.xml
+
+init:
+
+compile:
+    [javac] Compiling 2 source files to /home/arthur/work/se/fault-localization/bin
+
+run.tarantula:
+     [java] For program: triangle/Triangle.java
+     [java] line 3: ratio: -1.000000, brightness: -1.000000
+     [java] line 4: ratio: -1.000000, brightness: -1.000000
+     [java] line 5: ratio: 1.000000, brightness: 0.034483
+     [java] line 6: ratio: 1.000000, brightness: 0.034483
+     [java] line 7: ratio: -1.000000, brightness: -1.000000
+     [java] line 8: ratio: -1.000000, brightness: -1.000000
+     [java] line 9: ratio: -1.000000, brightness: -1.000000
+     [java] line 10: ratio: -1.000000, brightness: -1.000000
+     [java] line 11: ratio: 0.500000, brightness: 1.000000
+     [java] line 12: ratio: 1.000000, brightness: 0.344828
+     [java] line 13: ratio: 0.395833, brightness: 1.000000
+     [java] line 14: ratio: 0.395833, brightness: 1.000000
+     [java] line 15: ratio: 0.171429, brightness: 0.500000
+     [java] line 16: ratio: 0.395833, brightness: 1.000000
+     [java] line 17: ratio: 0.408163, brightness: 0.250000
+     [java] line 18: ratio: 0.395833, brightness: 1.000000
+     [java] line 19: ratio: 0.171429, brightness: 0.500000
+     [java] line 20: ratio: 0.395833, brightness: 1.000000
+     [java] line 21: ratio: 0.452830, brightness: 0.500000
+     [java] line 22: ratio: 0.408163, brightness: 0.500000
+     [java] line 23: ratio: -1.000000, brightness: -1.000000
+     [java] line 24: ratio: 1.000000, brightness: 0.068966
+     [java] line 25: ratio: 0.325581, brightness: 0.500000
+     [java] line 26: ratio: 0.171429, brightness: 0.500000
+     [java] line 27: ratio: 1.000000, brightness: 0.137931
+     [java] line 28: ratio: -1.000000, brightness: -1.000000
+     [java] line 29: ratio: 1.000000, brightness: 0.137931
+     [java] line 30: ratio: 1.000000, brightness: 0.034483
+     [java] line 31: ratio: 1.000000, brightness: 0.103448
+     [java] line 32: ratio: -1.000000, brightness: -1.000000
+     [java] line 33: ratio: 1.000000, brightness: 0.103448
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
