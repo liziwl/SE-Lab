@@ -1,0 +1,5 @@
+javac -cp ".:./junit-4.12.jar:./hamcrest-core-1.3.jar:$CLASSPATH" triangle/Triangle.java triangle/TestSuite.java
+
+java -cp ".:./junit-4.12.jar:./hamcrest-core-1.3.jar:$CLASSPATH" daikon.DynComp triangle.Triangle
+
+java -cp ".:./junit-4.12.jar:./hamcrest-core-1.3.jar:$CLASSPATH" daikon.Chicory --daikon --comparability-file=Triangle.decls-DynComp triangle.Triangle

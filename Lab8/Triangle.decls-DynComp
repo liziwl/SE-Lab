@@ -1,0 +1,3942 @@
+// Declaration file written by daikon.dcomp
+
+VarComparability
+implicit
+DECLARE
+triangle.Triangle:::CLASS
+
+DECLARE
+triangle.Triangle:::OBJECT
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+2
+
+
+DECLARE
+triangle.Triangle.Triangle():::ENTER
+
+DECLARE
+triangle.Triangle.Triangle():::EXIT4
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+2
+
+
+DECLARE
+triangle.Triangle.main(java.lang.String[]):::ENTER
+arg0
+java.lang.String[] # isParam=true
+hashcode
+2
+arg0.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+arg0[..]
+java.lang.String[]
+hashcode[]
+3[5]
+arg0[..].toString
+java.lang.String[]
+java.lang.String[]
+4[6]
+
+DECLARE
+triangle.Triangle.main(java.lang.String[]):::EXIT16
+arg0
+java.lang.String[] # isParam=true
+hashcode
+2
+arg0.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+arg0[..]
+java.lang.String[]
+hashcode[]
+3[5]
+arg0[..].toString
+java.lang.String[]
+java.lang.String[]
+4[6]
+
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::ENTER
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT21
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT31
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT33
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT35
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT37
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT39
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT41
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+DECLARE
+triangle.Triangle.classify(int, int, int):::EXIT42
+arg0
+int # isParam=true
+int
+2
+arg1
+int # isParam=true
+int
+2
+arg2
+int # isParam=true
+int
+2
+return
+triangle.Triangle$Type
+hashcode
+3
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[5]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[6]
+
+
+DECLARE
+triangle.Triangle.equals(java.lang.Object):::ENTER
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+3
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+triangle.Triangle.equals(java.lang.Object):::EXIT1
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+4
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+
+DECLARE
+triangle.Triangle.equals_dcomp_instrumented(java.lang.Object):::ENTER
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+3
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+triangle.Triangle.equals_dcomp_instrumented(java.lang.Object):::EXIT1
+this
+triangle.Triangle # isNonNull=true, isParam=true
+hashcode
+4
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+DECLARE
+triangle.Triangle$Type:::CLASS
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+5
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+2
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[8]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[9]
+
+DECLARE
+triangle.Triangle$Type:::OBJECT
+this
+triangle.Triangle$Type # isNonNull=true, isParam=true
+hashcode
+2
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+8
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+5
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+3
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+4[9]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[10]
+
+
+DECLARE
+triangle.Triangle$Type.values():::ENTER
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+5
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+2
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[8]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[9]
+
+DECLARE
+triangle.Triangle$Type.values():::EXIT6
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+9
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+8
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+5[10]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[11]
+return
+triangle.Triangle$Type[]
+hashcode
+2
+return.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return[..]
+triangle.Triangle$Type[]
+hashcode[]
+3[12]
+
+
+DECLARE
+triangle.Triangle$Type.valueOf(java.lang.String):::ENTER
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+9
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+8
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+4
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+5[10]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[11]
+arg0
+java.lang.String # isParam=true
+hashcode
+2
+arg0.toString
+java.lang.String
+java.lang.String
+3
+
+DECLARE
+triangle.Triangle$Type.valueOf(java.lang.String):::EXIT6
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+8
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+10
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+7
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+9
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+5
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+6[11]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[12]
+arg0
+java.lang.String # isParam=true
+hashcode
+2
+arg0.toString
+java.lang.String
+java.lang.String
+3
+return
+triangle.Triangle$Type
+hashcode
+4
+
+
+DECLARE
+triangle.Triangle$Type.Type(java.lang.String, int):::ENTER
+arg0
+java.lang.String # isParam=true
+hashcode
+2
+arg0.toString
+java.lang.String
+java.lang.String
+3
+arg1
+int # isParam=true
+int
+4
+
+DECLARE
+triangle.Triangle$Type.Type(java.lang.String, int):::EXIT6
+this
+triangle.Triangle$Type # isNonNull=true, isParam=true
+hashcode
+5
+triangle.Triangle$Type.INVALID
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+9
+triangle.Triangle$Type.SCALENE
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+11
+triangle.Triangle$Type.EQUILATERAL
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+8
+triangle.Triangle$Type.ISOSCELES
+triangle.Triangle$Type # declaringClassPackageName=triangle
+hashcode
+10
+triangle.Triangle$Type.$VALUES
+triangle.Triangle$Type[] # declaringClassPackageName=triangle
+hashcode
+6
+triangle.Triangle$Type.$VALUES.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+triangle.Triangle$Type.$VALUES[..]
+triangle.Triangle$Type[]
+hashcode[]
+7[12]
+triangle.Triangle$Type.$VALUES[..].getClass().getName()
+java.lang.Class[]
+java.lang.String[]
+1[13]
+arg0
+java.lang.String # isParam=true
+hashcode
+2
+arg0.toString
+java.lang.String
+java.lang.String
+3
+arg1
+int # isParam=true
+int
+4
+
+DECLARE
+org.junit.Assert:::CLASS
+
+DECLARE
+org.junit.Assert:::OBJECT
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+2
+
+
+DECLARE
+org.junit.Assert.Assert():::ENTER
+
+DECLARE
+org.junit.Assert.Assert():::EXIT29
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+2
+
+
+DECLARE
+org.junit.Assert.assertTrue(java.lang.String, boolean):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+condition
+boolean # isParam=true
+boolean
+2
+
+DECLARE
+org.junit.Assert.assertTrue(java.lang.String, boolean):::EXIT43
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+condition
+boolean # isParam=true
+boolean
+2
+
+
+DECLARE
+org.junit.Assert.assertTrue(boolean):::ENTER
+condition
+boolean # isParam=true
+boolean
+2
+
+DECLARE
+org.junit.Assert.assertTrue(boolean):::EXIT53
+condition
+boolean # isParam=true
+boolean
+2
+
+
+DECLARE
+org.junit.Assert.assertFalse(java.lang.String, boolean):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+condition
+boolean # isParam=true
+boolean
+2
+
+DECLARE
+org.junit.Assert.assertFalse(java.lang.String, boolean):::EXIT65
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+condition
+boolean # isParam=true
+boolean
+2
+
+
+DECLARE
+org.junit.Assert.assertFalse(boolean):::ENTER
+condition
+boolean # isParam=true
+boolean
+2
+
+DECLARE
+org.junit.Assert.assertFalse(boolean):::EXIT75
+condition
+boolean # isParam=true
+boolean
+2
+
+
+DECLARE
+org.junit.Assert.fail(java.lang.String):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+
+
+DECLARE
+org.junit.Assert.fail():::ENTER
+
+DECLARE
+org.junit.Assert.fail():::EXIT96
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, java.lang.Object, java.lang.Object):::EXIT112
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, java.lang.Object, java.lang.Object):::EXIT120
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.equalsRegardingNull(java.lang.Object, java.lang.Object):::ENTER
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.equalsRegardingNull(java.lang.Object, java.lang.Object):::EXIT124
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+DECLARE
+org.junit.Assert.equalsRegardingNull(java.lang.Object, java.lang.Object):::EXIT127
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+
+DECLARE
+org.junit.Assert.isEquals(java.lang.Object, java.lang.Object):::ENTER
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.isEquals(java.lang.Object, java.lang.Object):::EXIT131
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.Object, java.lang.Object):::ENTER
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.Object, java.lang.Object):::EXIT145
+expected
+java.lang.Object # isParam=true
+hashcode
+2
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+java.lang.Object # isParam=true
+hashcode
+5
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, java.lang.Object, java.lang.Object):::EXIT163
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+java.lang.Object # isParam=true
+hashcode
+5
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.Object, java.lang.Object):::ENTER
+unexpected
+java.lang.Object # isParam=true
+hashcode
+3
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.Object, java.lang.Object):::EXIT176
+unexpected
+java.lang.Object # isParam=true
+hashcode
+3
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.failEquals(java.lang.String, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.failEquals(java.lang.String, java.lang.Object):::EXIT186
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, long, long):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+long # isParam=true
+int
+5
+actual
+long # isParam=true
+int
+2
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, long, long):::EXIT201
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+long # isParam=true
+int
+5
+actual
+long # isParam=true
+int
+2
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(long, long):::ENTER
+unexpected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+DECLARE
+org.junit.Assert.assertNotEquals(long, long):::EXIT212
+unexpected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, double, double, double):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+unexpected
+double # isParam=true
+double
+6
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, double, double, double):::EXIT234
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+unexpected
+double # isParam=true
+double
+6
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(double, double, double):::ENTER
+unexpected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertNotEquals(double, double, double):::EXIT250
+unexpected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(float, float, float):::ENTER
+unexpected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertNotEquals(float, float, float):::EXIT266
+unexpected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, java.lang.Object[], java.lang.Object[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[8]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, java.lang.Object[], java.lang.Object[]):::EXIT284
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[8]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.Object[], java.lang.Object[]):::ENTER
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[6]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.Object[], java.lang.Object[]):::EXIT299
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[6]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, boolean[], boolean[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+boolean[] # isParam=true
+hashcode
+4
+expecteds[..]
+boolean[]
+boolean[]
+5[8]
+actuals
+boolean[] # isParam=true
+hashcode
+2
+actuals[..]
+boolean[]
+boolean[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, boolean[], boolean[]):::EXIT315
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+boolean[] # isParam=true
+hashcode
+4
+expecteds[..]
+boolean[]
+boolean[]
+5[8]
+actuals
+boolean[] # isParam=true
+hashcode
+2
+actuals[..]
+boolean[]
+boolean[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(boolean[], boolean[]):::ENTER
+expecteds
+boolean[] # isParam=true
+hashcode
+4
+expecteds[..]
+boolean[]
+boolean[]
+5[6]
+actuals
+boolean[] # isParam=true
+hashcode
+2
+actuals[..]
+boolean[]
+boolean[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(boolean[], boolean[]):::EXIT328
+expecteds
+boolean[] # isParam=true
+hashcode
+4
+expecteds[..]
+boolean[]
+boolean[]
+5[6]
+actuals
+boolean[] # isParam=true
+hashcode
+2
+actuals[..]
+boolean[]
+boolean[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, byte[], byte[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+byte[] # isParam=true
+hashcode
+4
+expecteds[..]
+byte[]
+int[]
+5[8]
+actuals
+byte[] # isParam=true
+hashcode
+2
+actuals[..]
+byte[]
+int[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, byte[], byte[]):::EXIT342
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+byte[] # isParam=true
+hashcode
+4
+expecteds[..]
+byte[]
+int[]
+5[8]
+actuals
+byte[] # isParam=true
+hashcode
+2
+actuals[..]
+byte[]
+int[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(byte[], byte[]):::ENTER
+expecteds
+byte[] # isParam=true
+hashcode
+4
+expecteds[..]
+byte[]
+int[]
+5[6]
+actuals
+byte[] # isParam=true
+hashcode
+2
+actuals[..]
+byte[]
+int[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(byte[], byte[]):::EXIT353
+expecteds
+byte[] # isParam=true
+hashcode
+4
+expecteds[..]
+byte[]
+int[]
+5[6]
+actuals
+byte[] # isParam=true
+hashcode
+2
+actuals[..]
+byte[]
+int[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, char[], char[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+char[] # isParam=true
+hashcode
+4
+expecteds[..]
+char[]
+int[]
+5[8]
+actuals
+char[] # isParam=true
+hashcode
+2
+actuals[..]
+char[]
+int[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, char[], char[]):::EXIT367
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+char[] # isParam=true
+hashcode
+4
+expecteds[..]
+char[]
+int[]
+5[8]
+actuals
+char[] # isParam=true
+hashcode
+2
+actuals[..]
+char[]
+int[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(char[], char[]):::ENTER
+expecteds
+char[] # isParam=true
+hashcode
+4
+expecteds[..]
+char[]
+int[]
+5[6]
+actuals
+char[] # isParam=true
+hashcode
+2
+actuals[..]
+char[]
+int[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(char[], char[]):::EXIT378
+expecteds
+char[] # isParam=true
+hashcode
+4
+expecteds[..]
+char[]
+int[]
+5[6]
+actuals
+char[] # isParam=true
+hashcode
+2
+actuals[..]
+char[]
+int[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, short[], short[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+short[] # isParam=true
+hashcode
+4
+expecteds[..]
+short[]
+int[]
+5[8]
+actuals
+short[] # isParam=true
+hashcode
+2
+actuals[..]
+short[]
+int[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, short[], short[]):::EXIT392
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+short[] # isParam=true
+hashcode
+4
+expecteds[..]
+short[]
+int[]
+5[8]
+actuals
+short[] # isParam=true
+hashcode
+2
+actuals[..]
+short[]
+int[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(short[], short[]):::ENTER
+expecteds
+short[] # isParam=true
+hashcode
+4
+expecteds[..]
+short[]
+int[]
+5[6]
+actuals
+short[] # isParam=true
+hashcode
+2
+actuals[..]
+short[]
+int[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(short[], short[]):::EXIT403
+expecteds
+short[] # isParam=true
+hashcode
+4
+expecteds[..]
+short[]
+int[]
+5[6]
+actuals
+short[] # isParam=true
+hashcode
+2
+actuals[..]
+short[]
+int[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, int[], int[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+int[] # isParam=true
+hashcode
+4
+expecteds[..]
+int[]
+int[]
+5[8]
+actuals
+int[] # isParam=true
+hashcode
+2
+actuals[..]
+int[]
+int[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, int[], int[]):::EXIT417
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+int[] # isParam=true
+hashcode
+4
+expecteds[..]
+int[]
+int[]
+5[8]
+actuals
+int[] # isParam=true
+hashcode
+2
+actuals[..]
+int[]
+int[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(int[], int[]):::ENTER
+expecteds
+int[] # isParam=true
+hashcode
+4
+expecteds[..]
+int[]
+int[]
+5[6]
+actuals
+int[] # isParam=true
+hashcode
+2
+actuals[..]
+int[]
+int[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(int[], int[]):::EXIT428
+expecteds
+int[] # isParam=true
+hashcode
+4
+expecteds[..]
+int[]
+int[]
+5[6]
+actuals
+int[] # isParam=true
+hashcode
+2
+actuals[..]
+int[]
+int[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, long[], long[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+long[] # isParam=true
+hashcode
+4
+expecteds[..]
+long[]
+int[]
+5[8]
+actuals
+long[] # isParam=true
+hashcode
+2
+actuals[..]
+long[]
+int[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, long[], long[]):::EXIT442
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+long[] # isParam=true
+hashcode
+4
+expecteds[..]
+long[]
+int[]
+5[8]
+actuals
+long[] # isParam=true
+hashcode
+2
+actuals[..]
+long[]
+int[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(long[], long[]):::ENTER
+expecteds
+long[] # isParam=true
+hashcode
+4
+expecteds[..]
+long[]
+int[]
+5[6]
+actuals
+long[] # isParam=true
+hashcode
+2
+actuals[..]
+long[]
+int[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertArrayEquals(long[], long[]):::EXIT453
+expecteds
+long[] # isParam=true
+hashcode
+4
+expecteds[..]
+long[]
+int[]
+5[6]
+actuals
+long[] # isParam=true
+hashcode
+2
+actuals[..]
+long[]
+int[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, double[], double[], double):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+7
+message.toString
+java.lang.String
+java.lang.String
+8
+expecteds
+double[] # isParam=true
+hashcode
+5
+expecteds[..]
+double[]
+double[]
+6[9]
+actuals
+double[] # isParam=true
+hashcode
+2
+actuals[..]
+double[]
+double[]
+3[10]
+delta
+double # isParam=true
+double
+4
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, double[], double[], double):::EXIT470
+message
+java.lang.String # isParam=true
+hashcode
+7
+message.toString
+java.lang.String
+java.lang.String
+8
+expecteds
+double[] # isParam=true
+hashcode
+5
+expecteds[..]
+double[]
+double[]
+6[9]
+actuals
+double[] # isParam=true
+hashcode
+2
+actuals[..]
+double[]
+double[]
+3[10]
+delta
+double # isParam=true
+double
+4
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(double[], double[], double):::ENTER
+expecteds
+double[] # isParam=true
+hashcode
+5
+expecteds[..]
+double[]
+double[]
+6[7]
+actuals
+double[] # isParam=true
+hashcode
+2
+actuals[..]
+double[]
+double[]
+3[8]
+delta
+double # isParam=true
+double
+4
+
+DECLARE
+org.junit.Assert.assertArrayEquals(double[], double[], double):::EXIT484
+expecteds
+double[] # isParam=true
+hashcode
+5
+expecteds[..]
+double[]
+double[]
+6[7]
+actuals
+double[] # isParam=true
+hashcode
+2
+actuals[..]
+double[]
+double[]
+3[8]
+delta
+double # isParam=true
+double
+4
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, float[], float[], float):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+7
+message.toString
+java.lang.String
+java.lang.String
+8
+expecteds
+float[] # isParam=true
+hashcode
+5
+expecteds[..]
+float[]
+double[]
+6[9]
+actuals
+float[] # isParam=true
+hashcode
+2
+actuals[..]
+float[]
+double[]
+3[10]
+delta
+float # isParam=true
+double
+4
+
+DECLARE
+org.junit.Assert.assertArrayEquals(java.lang.String, float[], float[], float):::EXIT501
+message
+java.lang.String # isParam=true
+hashcode
+7
+message.toString
+java.lang.String
+java.lang.String
+8
+expecteds
+float[] # isParam=true
+hashcode
+5
+expecteds[..]
+float[]
+double[]
+6[9]
+actuals
+float[] # isParam=true
+hashcode
+2
+actuals[..]
+float[]
+double[]
+3[10]
+delta
+float # isParam=true
+double
+4
+
+
+DECLARE
+org.junit.Assert.assertArrayEquals(float[], float[], float):::ENTER
+expecteds
+float[] # isParam=true
+hashcode
+5
+expecteds[..]
+float[]
+double[]
+6[7]
+actuals
+float[] # isParam=true
+hashcode
+2
+actuals[..]
+float[]
+double[]
+3[8]
+delta
+float # isParam=true
+double
+4
+
+DECLARE
+org.junit.Assert.assertArrayEquals(float[], float[], float):::EXIT515
+expecteds
+float[] # isParam=true
+hashcode
+5
+expecteds[..]
+float[]
+double[]
+6[7]
+actuals
+float[] # isParam=true
+hashcode
+2
+actuals[..]
+float[]
+double[]
+3[8]
+delta
+float # isParam=true
+double
+4
+
+
+DECLARE
+org.junit.Assert.internalArrayEquals(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expecteds
+java.lang.Object # isParam=true
+hashcode
+3
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals
+java.lang.Object # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.internalArrayEquals(java.lang.String, java.lang.Object, java.lang.Object):::EXIT533
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expecteds
+java.lang.Object # isParam=true
+hashcode
+3
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals
+java.lang.Object # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, double, double, double):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+5
+message.toString
+java.lang.String
+java.lang.String
+6
+expected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, double, double, double):::EXIT555
+message
+java.lang.String # isParam=true
+hashcode
+5
+message.toString
+java.lang.String
+java.lang.String
+6
+expected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, float, float, float):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+5
+message.toString
+java.lang.String
+java.lang.String
+6
+expected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, float, float, float):::EXIT577
+message
+java.lang.String # isParam=true
+hashcode
+5
+message.toString
+java.lang.String
+java.lang.String
+6
+expected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, float, float, float):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+unexpected
+float # isParam=true
+double
+6
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertNotEquals(java.lang.String, float, float, float):::EXIT599
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+unexpected
+float # isParam=true
+double
+6
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.doubleIsDifferent(double, double, double):::ENTER
+d1
+double # isParam=true
+double
+2
+d2
+double # isParam=true
+double
+3
+delta
+double # isParam=true
+double
+4
+
+DECLARE
+org.junit.Assert.doubleIsDifferent(double, double, double):::EXIT603
+d1
+double # isParam=true
+double
+2
+d2
+double # isParam=true
+double
+3
+delta
+double # isParam=true
+double
+4
+return
+boolean
+boolean
+5
+
+DECLARE
+org.junit.Assert.doubleIsDifferent(double, double, double):::EXIT606
+d1
+double # isParam=true
+double
+2
+d2
+double # isParam=true
+double
+3
+delta
+double # isParam=true
+double
+4
+return
+boolean
+boolean
+5
+
+DECLARE
+org.junit.Assert.doubleIsDifferent(double, double, double):::EXIT609
+d1
+double # isParam=true
+double
+2
+d2
+double # isParam=true
+double
+3
+delta
+double # isParam=true
+double
+4
+return
+boolean
+boolean
+5
+
+
+DECLARE
+org.junit.Assert.floatIsDifferent(float, float, float):::ENTER
+f1
+float # isParam=true
+double
+3
+f2
+float # isParam=true
+double
+4
+delta
+float # isParam=true
+double
+2
+
+DECLARE
+org.junit.Assert.floatIsDifferent(float, float, float):::EXIT614
+f1
+float # isParam=true
+double
+3
+f2
+float # isParam=true
+double
+4
+delta
+float # isParam=true
+double
+2
+return
+boolean
+boolean
+5
+
+DECLARE
+org.junit.Assert.floatIsDifferent(float, float, float):::EXIT617
+f1
+float # isParam=true
+double
+3
+f2
+float # isParam=true
+double
+4
+delta
+float # isParam=true
+double
+2
+return
+boolean
+boolean
+5
+
+DECLARE
+org.junit.Assert.floatIsDifferent(float, float, float):::EXIT620
+f1
+float # isParam=true
+double
+3
+f2
+float # isParam=true
+double
+4
+delta
+float # isParam=true
+double
+2
+return
+boolean
+boolean
+5
+
+
+DECLARE
+org.junit.Assert.assertEquals(long, long):::ENTER
+expected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+DECLARE
+org.junit.Assert.assertEquals(long, long):::EXIT632
+expected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, long, long):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, long, long):::EXIT647
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+long # isParam=true
+int
+3
+actual
+long # isParam=true
+int
+2
+
+
+DECLARE
+org.junit.Assert.assertEquals(double, double):::ENTER
+expected
+double # isParam=true
+double
+3
+actual
+double # isParam=true
+double
+2
+
+DECLARE
+org.junit.Assert.assertEquals(double, double):::EXIT657
+expected
+double # isParam=true
+double
+3
+actual
+double # isParam=true
+double
+2
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, double, double):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+double # isParam=true
+double
+3
+actual
+double # isParam=true
+double
+2
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, double, double):::EXIT668
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+double # isParam=true
+double
+3
+actual
+double # isParam=true
+double
+2
+
+
+DECLARE
+org.junit.Assert.assertEquals(double, double, double):::ENTER
+expected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertEquals(double, double, double):::EXIT684
+expected
+double # isParam=true
+double
+4
+actual
+double # isParam=true
+double
+2
+delta
+double # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertEquals(float, float, float):::ENTER
+expected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+DECLARE
+org.junit.Assert.assertEquals(float, float, float):::EXIT701
+expected
+float # isParam=true
+double
+4
+actual
+float # isParam=true
+double
+2
+delta
+float # isParam=true
+double
+3
+
+
+DECLARE
+org.junit.Assert.assertNotNull(java.lang.String, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+object
+java.lang.Object # isParam=true
+hashcode
+4
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotNull(java.lang.String, java.lang.Object):::EXIT713
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+object
+java.lang.Object # isParam=true
+hashcode
+4
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotNull(java.lang.Object):::ENTER
+object
+java.lang.Object # isParam=true
+hashcode
+2
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotNull(java.lang.Object):::EXIT723
+object
+java.lang.Object # isParam=true
+hashcode
+2
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNull(java.lang.String, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+object
+java.lang.Object # isParam=true
+hashcode
+4
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNull(java.lang.String, java.lang.Object):::EXIT735
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+object
+java.lang.Object # isParam=true
+hashcode
+4
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNull(java.lang.String, java.lang.Object):::EXIT738
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+object
+java.lang.Object # isParam=true
+hashcode
+4
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNull(java.lang.Object):::ENTER
+object
+java.lang.Object # isParam=true
+hashcode
+2
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNull(java.lang.Object):::EXIT748
+object
+java.lang.Object # isParam=true
+hashcode
+2
+object.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.failNotNull(java.lang.String, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.failNotNull(java.lang.String, java.lang.Object):::EXIT756
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertSame(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertSame(java.lang.String, java.lang.Object, java.lang.Object):::EXIT769
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertSame(java.lang.String, java.lang.Object, java.lang.Object):::EXIT772
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertSame(java.lang.Object, java.lang.Object):::ENTER
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertSame(java.lang.Object, java.lang.Object):::EXIT783
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotSame(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+java.lang.Object # isParam=true
+hashcode
+5
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotSame(java.lang.String, java.lang.Object, java.lang.Object):::EXIT800
+message
+java.lang.String # isParam=true
+hashcode
+3
+message.toString
+java.lang.String
+java.lang.String
+4
+unexpected
+java.lang.Object # isParam=true
+hashcode
+5
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertNotSame(java.lang.Object, java.lang.Object):::ENTER
+unexpected
+java.lang.Object # isParam=true
+hashcode
+3
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertNotSame(java.lang.Object, java.lang.Object):::EXIT812
+unexpected
+java.lang.Object # isParam=true
+hashcode
+3
+unexpected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.failSame(java.lang.String):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+
+DECLARE
+org.junit.Assert.failSame(java.lang.String):::EXIT820
+message
+java.lang.String # isParam=true
+hashcode
+2
+message.toString
+java.lang.String
+java.lang.String
+3
+
+
+DECLARE
+org.junit.Assert.failNotSame(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.failNotSame(java.lang.String, java.lang.Object, java.lang.Object):::EXIT830
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.failNotEquals(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.failNotEquals(java.lang.String, java.lang.Object, java.lang.Object):::EXIT835
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.format(java.lang.String, java.lang.Object, java.lang.Object):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.format(java.lang.String, java.lang.Object, java.lang.Object):::EXIT845
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+java.lang.String
+hashcode
+6
+return.toString
+java.lang.String
+java.lang.String
+7
+
+DECLARE
+org.junit.Assert.format(java.lang.String, java.lang.Object, java.lang.Object):::EXIT849
+message
+java.lang.String # isParam=true
+hashcode
+4
+message.toString
+java.lang.String
+java.lang.String
+5
+expected
+java.lang.Object # isParam=true
+hashcode
+3
+expected.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+java.lang.String
+hashcode
+6
+return.toString
+java.lang.String
+java.lang.String
+7
+
+
+DECLARE
+org.junit.Assert.formatClassAndValue(java.lang.Object, java.lang.String):::ENTER
+value
+java.lang.Object # isParam=true
+hashcode
+2
+value.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+valueString
+java.lang.String # isParam=true
+hashcode
+3
+valueString.toString
+java.lang.String
+java.lang.String
+4
+
+DECLARE
+org.junit.Assert.formatClassAndValue(java.lang.Object, java.lang.String):::EXIT856
+value
+java.lang.Object # isParam=true
+hashcode
+4
+value.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+valueString
+java.lang.String # isParam=true
+hashcode
+5
+valueString.toString
+java.lang.String
+java.lang.String
+6
+return
+java.lang.String
+hashcode
+2
+return.toString
+java.lang.String
+java.lang.String
+3
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, java.lang.Object[], java.lang.Object[]):::ENTER
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[8]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[9]
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.String, java.lang.Object[], java.lang.Object[]):::EXIT877
+message
+java.lang.String # isParam=true
+hashcode
+6
+message.toString
+java.lang.String
+java.lang.String
+7
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[8]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[9]
+
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.Object[], java.lang.Object[]):::ENTER
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[6]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[7]
+
+DECLARE
+org.junit.Assert.assertEquals(java.lang.Object[], java.lang.Object[]):::EXIT894
+expecteds
+java.lang.Object[] # isParam=true
+hashcode
+4
+expecteds.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+expecteds[..]
+java.lang.Object[]
+hashcode[]
+5[6]
+actuals
+java.lang.Object[] # isParam=true
+hashcode
+2
+actuals.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+actuals[..]
+java.lang.Object[]
+hashcode[]
+3[7]
+
+
+DECLARE
+org.junit.Assert.assertThat(java.lang.Object, org.hamcrest.Matcher):::ENTER
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+matcher
+org.hamcrest.Matcher # isParam=true
+hashcode
+3
+matcher.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertThat(java.lang.Object, org.hamcrest.Matcher):::EXIT924
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+matcher
+org.hamcrest.Matcher # isParam=true
+hashcode
+3
+matcher.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.assertThat(java.lang.String, java.lang.Object, org.hamcrest.Matcher):::ENTER
+reason
+java.lang.String # isParam=true
+hashcode
+4
+reason.toString
+java.lang.String
+java.lang.String
+5
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+matcher
+org.hamcrest.Matcher # isParam=true
+hashcode
+3
+matcher.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.assertThat(java.lang.String, java.lang.Object, org.hamcrest.Matcher):::EXIT957
+reason
+java.lang.String # isParam=true
+hashcode
+4
+reason.toString
+java.lang.String
+java.lang.String
+5
+actual
+java.lang.Object # isParam=true
+hashcode
+2
+actual.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+matcher
+org.hamcrest.Matcher # isParam=true
+hashcode
+3
+matcher.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+
+DECLARE
+org.junit.Assert.equals(java.lang.Object):::ENTER
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+3
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.equals(java.lang.Object):::EXIT1
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+4
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
+
+DECLARE
+org.junit.Assert.equals_dcomp_instrumented(java.lang.Object):::ENTER
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+3
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+
+DECLARE
+org.junit.Assert.equals_dcomp_instrumented(java.lang.Object):::EXIT1
+this
+org.junit.Assert # isNonNull=true, isParam=true
+hashcode
+4
+obj
+java.lang.Object # isParam=true
+hashcode
+2
+obj.getClass().getName()
+java.lang.Class
+java.lang.String
+1
+return
+boolean
+boolean
+3
+
