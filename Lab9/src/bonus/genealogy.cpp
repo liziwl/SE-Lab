@@ -1,6 +1,8 @@
 // traversing genealogical tree using Composite and Visitors
 // Mikhail Nesterenko
 // 10/28/2015
+// Ziqiang LI
+// 05/21/2017
 
 #include <iostream>
 #include <string>
