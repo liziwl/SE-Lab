@@ -2,7 +2,7 @@
 
 11510352 李子强
 
-## folder hierarchy
+## Folder hierarchy
 ```
 .
 ├── 201805221711
@@ -24,7 +24,7 @@
     └── Triangle$Type.class
 ```
 
-## shell commands
+## Shell commands
 ```bash
 # Delete or comment test case 10, 11, 14, 20 in TestSuite.java
 
@@ -42,4 +42,25 @@ java -cp .:$CLASSPATH:junit-4.12.jar:pitest-command-line-1.4.0.jar:pitest-entry-
 
 ## Screenshot
 
-![fig](./fig1.png)
+![fig1](./fig1.png)
+
+![fig2](./fig2.png)
+
+## Result analysis
+
+The test suite cover 20 lines in 29 lines. Generated 49 mutations Killed 33.
+
+1. ConditionalsBoundaryMutator
+> Generated 10 Killed 6 (60%)
+
+2. VoidMethodCallMutator
+> Generated 5 Killed 0 (0%)
+
+3. ReturnValsMutator
+> Generated 8 Killed 6 (75%)
+
+4. MathMutator
+> Generated 9 Killed 6 (67%)
+
+5. NegateConditionalsMutator
+> Generated 17 Killed 15 (88%)
