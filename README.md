@@ -1,4 +1,5 @@
 # Software engineering Lab
+SUSTech CS304
 
 ## Lab5
 Junit testing
